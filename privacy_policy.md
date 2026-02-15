@@ -1,3 +1,50 @@
+# Privacy Policy
+
+**The Market Codex** (hereinafter referred to as the "App") values the user's personal information and complies with the Personal Information Protection Act and related laws of the Republic of Korea. This Privacy Policy informs you how the App collects, uses, and protects your information.
+
+**Notice:** This App is for market analysis reference only and is not an investment solicitation app. The responsibility for investment choices lies entirely with the user.
+
+---
+
+## 1. Purpose of Processing Personal Information
+The App provides services without a separate membership registration process and does not directly collect or store sensitive personal information on its servers. However, the following information may be utilized to provide services and improve app functionality.
+
+## 2. Items of Personal Information Processed
+The App may collect the following information for smooth service delivery:
+* **Device Information:** Device model, OS version, advertising identifiers (ADID/IDFA)
+* **Log Data:** App execution records, error logs, and service usage history
+* **Others:** Analytical information collected through third-party libraries such as Google Play Services
+
+## 3. Third-Party Services and Data Collection
+The App may use the following third-party services to improve services and display advertisements. Each service provider collects information according to its own privacy policy:
+* [Google Play Services](https://www.google.com/policies/privacy/)
+* [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+* [AdMob](https://support.google.com/admob/answer/6128543)
+
+## 4. Retention and Use Period of Personal Information
+In principle, the App does not directly store or retain your personal information. Information collected through third-party services is retained and destroyed in accordance with the policies of those service providers.
+
+## 5. Rights and Obligations of Users
+Users can stop the collection of information at any time by opting out of advertising identifier collection through their device settings or by deleting the App.
+
+## 6. Measures to Ensure the Safety of Personal Information
+The App complies with standard Android security guidelines to protect user information and strives to apply the latest security patches.
+
+## 7. Privacy Officer and Contact Information
+If you have any questions regarding personal information while using the App, please contact us at:
+
+* **Email:** moc_revan@naver.com
+* **Developer/Representative:** cho ik yeon
+
+## 8. Notification of Changes to the Privacy Policy
+This policy is effective from the enforcement date. Any additions, deletions, or modifications due to changes in laws or policies will be notified through the App or linked pages.
+
+---
+
+**Announcement Date:** February 15, 2026  
+**Enforcement Date:** February 15, 2026
+
+
 # 개인정보처리방침
 
 **The Market Codex** (이하 '앱')는 사용자의 개인정보를 소중하게 생각하며, 대한민국의 개인정보보호법 및 관련 법령을 준수합니다. 본 개인정보처리방침은 앱이 사용자의 정보를 어떻게 수집, 이용, 보호하는지 안내해 드립니다.
