@@ -44,6 +44,7 @@ This policy is effective from the enforcement date. Any additions, deletions, or
 **Announcement Date:** February 15, 2026  
 **Enforcement Date:** February 15, 2026
 
+##
 
 # 개인정보처리방침
 
